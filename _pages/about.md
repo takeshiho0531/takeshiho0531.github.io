@@ -36,3 +36,7 @@ I aim to pursue a Ph.D. in electrical engineering / computer sciences at univers
 
 ## Publications
 comming soon...
+<br>
+<br>
+## Blog
+[my blog in Japanese](https://takeshiho0531.hatenablog.com/)
