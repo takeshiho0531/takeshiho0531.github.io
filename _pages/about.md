@@ -25,6 +25,8 @@ I am fortunate to be advised by [Prof. Yutaka Matsuo](http://ymatsuo.com/index.h
 I am also spending some time at [Kosuge Lab](https://klab.t.u-tokyo.ac.jp/) at the University of Tokyo as a research intern, under the supervision of [Prof. Atsutake Kosuge](https://sites.google.com/view/atsutakekosuge/).
 
 My primary research interests are centered around hardware architecture (especially for AI/ML applications) and software-hardware co-design.
+
+I aim to pursue a Ph.D. in electrical engineering / computer sciences at universities in the US or Europe after earning my bachelor's degree.
 <br>
 <br>
 <br>
